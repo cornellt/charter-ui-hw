@@ -17,3 +17,5 @@ Given a record of every transaction during a three month period, calculate the r
 ***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Styled with [ChakraUI](https://chakra-ui.com/).

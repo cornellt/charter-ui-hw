@@ -1,0 +1,141 @@
+{
+    "transactions": [
+        {
+            "customer_id": 1,
+            "transaction_id": 1,
+            "purchase_amount": 55.00,
+            "month": 1
+        },
+        {
+            "customer_id": 1,
+            "transaction_id": 2,
+            "purchase_amount": 105.00,
+            "month": 1
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 3,
+            "purchase_amount": 25.18,
+            "month": 1
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 4,
+            "purchase_amount": 175.00,
+            "month": 1
+        },
+        {
+            "customer_id": 3,
+            "transaction_id": 5,
+            "purchase_amount": 5.00,
+            "month": 1
+        }, 
+        {
+            "customer_id": 3,
+            "transaction_id": 6,
+            "purchase_amount": 101.86,
+            "month": 1
+        },
+        {
+            "customer_id": 4,
+            "transaction_id": 20,
+            "purchase_amount": 290.00,
+            "month": 1
+        },
+
+
+        {
+            "customer_id": 1,
+            "transaction_id": 7,
+            "purchase_amount": 99.99,
+            "month": 2
+        },
+        {
+            "customer_id": 1,
+            "transaction_id": 8,
+            "purchase_amount": 216.25,
+            "month": 2
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 9,
+            "purchase_amount": 25.00,
+            "month": 2
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 10,
+            "purchase_amount": 275.00,
+            "month": 2
+        },
+        {
+            "customer_id": 3,
+            "transaction_id": 11,
+            "purchase_amount": 81.01,
+            "month": 2
+        }, 
+        {
+            "customer_id": 3,
+            "transaction_id": 12,
+            "purchase_amount": 58.50,
+            "month": 2
+        },        
+        {
+            "customer_id": 5,
+            "transaction_id": 19,
+            "purchase_amount": 55.00,
+            "month": 2
+        },
+        {
+            "customer_id": 1998,
+            "transaction_id": 22,
+            "purchase_amount": 51.00,
+            "month": 2
+        },
+
+
+
+        {
+            "customer_id": 1,
+            "transaction_id": 13,
+            "purchase_amount": 504.10,
+            "month": 3
+        },
+        {
+            "customer_id": 1,
+            "transaction_id": 14,
+            "purchase_amount": 182.70,
+            "month": 3
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 15,
+            "purchase_amount": 10.99,
+            "month": 3
+        },
+        {
+            "customer_id": 2,
+            "transaction_id": 16,
+            "purchase_amount": 9.95,
+            "month": 3
+        },
+        {
+            "customer_id": 3,
+            "transaction_id": 17,
+            "purchase_amount": 59.99,
+            "month": 3
+        },
+        {
+            "customer_id": 3,
+            "transaction_id": 18,
+            "purchase_amount": 306.20,
+            "month": 3
+        },
+        {
+            "customer_id": 41,
+            "transaction_id": 21,
+            "purchase_amount": 120.00,
+            "month": 3
+        }
+    ]
+}
